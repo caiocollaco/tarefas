@@ -29,6 +29,7 @@ Consulte **[Implantação](#-implanta%C3%A7%C3%A3o)** para saber como implantar 
 ### 🔧 Instalação
 
 1º Passo - Abra o Git Bash
+
 2º Passo - Acesse o diretório htdocs do xampp
 
 	Execute o comando a seguir no Git Bash
@@ -42,8 +43,11 @@ Consulte **[Implantação](#-implanta%C3%A7%C3%A3o)** para saber como implantar 
 	Será criado um novo diretório com o nome "tarefas", em htdocs
 
 4º Passo - Inicie o xampp
+
 5º Passo - Inicie o servidor Apache através da interface gráfica do xampp
+
 6º Passo - Inicie o banco de dados MySQL através da interface gráfica do xampp
+
 7º Passo - Abra o PHPMyAdmin no browser de sua preferência
 
 	Link de acesso:
